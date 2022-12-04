@@ -1,3 +1,4 @@
+# Where are you?
 - 👋 Hi, I’m Spencer
 - 👀 I’m interested in geography, cooking and geographic information science. 
 - 🌱 Currently, I am focused primarily on learning JavaScript and Python- to customize and share maps. 
